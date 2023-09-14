@@ -1,3 +1,3 @@
 # text_summarization
 
-This is for biomedical document.
+Fine-tuning transformers. These codes are run in colab GPU setting.
